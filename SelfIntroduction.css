@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#pageTitle {
+    text-align: center
+}
+
+header {
+    background-color: darkolivegreen;
+    padding: 1em 0;
+}
+
+p {
+    margin: 0 1em;
+}
