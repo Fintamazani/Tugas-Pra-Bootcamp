@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color:beige;
 }
 
 #pageTitle {
@@ -8,10 +9,11 @@ body {
 }
 
 header {
-    background-color: darkolivegreen;
+    background-color: rgb(225, 255, 173);
     padding: 1em 0;
 }
 
 p {
-    margin: 0 1em;
+    margin: 0 5em;
+    text-align: justify;
 }
